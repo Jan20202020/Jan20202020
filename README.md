@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jan
 - 🌱 I’m currently learning Python and JS
 - 📫 Contact me on discord: @1010jan1010
+- ✨ Check out <a href="https://xurl.app">xUrl.app</a>!
 
 <!---
 Jan20202020/Jan20202020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
